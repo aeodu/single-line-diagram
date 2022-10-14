@@ -26,5 +26,5 @@ auto drawing  single-line_diagram according a text
 ![](https://user-images.githubusercontent.com/96326382/195648765-a67306a5-f23c-45c6-9445-0caea72b2d7c.jpeg)
 
 
-![image](https://user-images.githubusercontent.com/114934911/195853064-a06bb2c2-f7c9-4e2e-8e89-9a0a65a65a1c.png)
+
 
