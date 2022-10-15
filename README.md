@@ -1,4 +1,4 @@
-# single-line_diagram
+# single-line diagram
 
 auto drawing  single-line_diagram according a text
 
